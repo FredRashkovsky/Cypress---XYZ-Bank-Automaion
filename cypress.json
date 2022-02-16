@@ -1,0 +1,5 @@
+{
+    "baseUrl" : "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
